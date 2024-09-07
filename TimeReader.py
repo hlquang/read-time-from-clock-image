@@ -300,7 +300,3 @@ class TimeReader:
                 2,
             )
             return self.image
-
-
-# tr = TimeReader()
-# tr.get_time("images/clock11.jpg", True)
