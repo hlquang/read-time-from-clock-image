@@ -16,5 +16,3 @@ A program to retrieve the time from an image of a clock using extra modules Open
 - Not clean
 - Not well-optimized
 - Not all images will work or return the expected result ...
-
-→ So please tweak or modify the code as needed
